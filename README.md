@@ -2,7 +2,7 @@
 
 **Personal Finance Management App**
 
-Spendly is a mobile-first personal finance management application designed to give users complete visibility and control over their daily spending. It enables fast and frictionless expense tracking combined with powerful analytics, smart categorization, and budget monitoring — all within a clean, modern interface.
+Spendly is a mobile-first personal finance management application designed to give users complete visibility and control over their daily spending. It enables fast and frictionless expense tracking combined with powerful analytics, smart categorization, and budget monitoring — all within a clean and modern interface.
 
 ---
 
